@@ -7599,4 +7599,10 @@
     #mw-content-text {
         min-height: 400px
     }
+
+    .content figure {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
 }
